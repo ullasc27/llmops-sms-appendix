@@ -45,7 +45,7 @@ Exploring Large Language Model Operations (LLMOps) and Related Challenges in Pro
 |---|---|---|---|---|
 | P1 | Playlist Search Reinvented: LLMs Behind the Curtain | Geetha S. Aluri, Siddharth Sharma, Tarun Sharma, and Joaquin Delgado | https://dl.acm.org/doi/10.1145/3640457.3688047 | Conference |
 | P2 | Securing Rag: A Risk Assessment and Mitigation Framework | Lukas Ammann, Sara Ott, Christoph R. Landolt, and Marco P. Lehmann | https://doi.org/10.1109/SDS66131.2025.00024 | Conference |
-| P3 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing | Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena L. Glassman | https://arxiv.org/abs/2309.09128 | Conference |
+| P3 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing | Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena L. Glassman | https://doi.org/10.1145/3613904.3642016 | Conference |
 | P4 | Secure and Scalable LLM-Based Recommendation Systems: An MLOps and Security by Design | Adi Saputra, Erma Suryani (and Nur Aini Rakhmawati) | https://ieeexplore.ieee.org/document/10791207 | Conference |
 | P5 | Integration of web scraping, fine-tuning, and data enrichment in a continuous monitoring context via large language model operations | Anas Bodor, Meriem Hnida, and Najima Daoudi | https://doi.org/10.11591/ijece.v15i1.pp1027-1037 | Journal |
 | P6 | Benchmarking Techniques for Real-Time Evaluation of LLMs In Production Systems | Reena Chandra, Rishab Bansal, and Karan Lulla | https://doi.org/10.52088/ijesty.v5i3.955 | Journal |
