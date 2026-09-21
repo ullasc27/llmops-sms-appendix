@@ -20,19 +20,19 @@ Exploring Large Language Model Operations (LLMOps) and Related Challenges in Pro
 
 | ID | Target RQ | Property Name | Description / Focus Area |
 |---|---|---|---|
-| DP1 | NA | Publication Identifier | Unique study identifier for tracking and cross-referencing throughout the review. |
-| DP2 | NA | Publication Year | Publication year (2017–2026) used to map evolution of LLMOps literature over time. |
-| DP3 | NA | Geography | Explains the Authors' affiliations by country, and will be used to map the authors' affiliations geographically. |
-| DP4 | NA | Publication Source | Venue type (journal/conference/workshop) for assessing publication context. |
-| DP5 | NA | Research Method | Reported empirical method (e.g., case study, survey, experiment). |
-| DP6 | NA | Artifact Readiness | Readiness level of contribution: theoretical artifact, prototype, or production implementation. |
-| DP7 | RQ1 | LLMOps Definition | Extracted definitions and direct terminology statements for conceptual synthesis. |
-| DP8 | RQ1 | Scope | Statements distinguishing LLMOps from other operational paradigms. |
-| DP9 | RQ2 | Lifecycle Stages | Coverage of design, development, and operations phases in the LLM lifecycle. |
-| DP10 | RQ2 | Frameworks and Architecture | Architectural or pipeline patterns (e.g., RAG, agentic workflows). |
-| DP11 | RQ2 | Platforms and Tools | Tooling and platform stack used in implementation (e.g., LangChain, Pinecone). |
-| DP12 | RQ3.1 | Technical Challenges | Implementation and operational technical challenges (e.g., hallucination control). |
-| DP13 | RQ3.2 | Regulatory Challenges | Compliance, governance, and policy constraints (e.g., GDPR-related requirements). |
+| DP1 | RQ1 | Publication Identifier | Unique study identifier for tracking and cross-referencing throughout the review. |
+| DP2 | RQ1 | Publication Year | Publication year (2017–2026) used to map evolution of LLMOps literature over time. |
+| DP3 | RQ1 | Geography | Explains the Authors' affiliations by country, and will be used to map the authors' affiliations geographically. |
+| DP4 | RQ1 | Publication Source | Venue type (journal/conference/workshop) for assessing publication context. |
+| DP5 | RQ1 | Research Method | Reported empirical method (e.g., case study, survey, experiment). |
+| DP6 | RQ1 | Artifact Readiness | Readiness level of contribution: theoretical artifact, prototype, or production implementation. |
+| DP7 | RQ2 | LLMOps Definition | Extracted definitions and direct terminology statements for conceptual synthesis. |
+| DP8 | RQ2 | Scope | Statements distinguishing LLMOps from other operational paradigms. |
+| DP9 | RQ3 | Lifecycle Stages | Coverage of design, development, and operations phases in the LLM lifecycle. |
+| DP10 | RQ3 | Frameworks and Architecture | Architectural or pipeline patterns (e.g., RAG, agentic workflows). |
+| DP11 | RQ3 | Platforms and Tools | Tooling and platform stack used in implementation (e.g., LangChain, Pinecone). |
+| DP12 | RQ4.1 | Technical Challenges | Implementation and operational technical challenges (e.g., hallucination control). |
+| DP13 | RQ4.2 | Regulatory Challenges | Compliance, governance, and policy constraints (e.g., GDPR-related requirements). |
 | DP14 | NA | Performance Metrics | Evaluation indicators used by studies (e.g., perplexity, latency, cost). |
 | DP15 | NA | Aim of the study | Aim of the study in context of LLMOps. Captures the core research objective to understand the primary focus and intended contribution of the paper (e.g., "To propose a scalable framework for RAG deployment"). |
 | DP16 | NA | Abstract | Direction, goal and context of LLMOps. Captures the direction and goal of the study and how it contributes to the research. Example abstract quote from the paper. |
