@@ -14,9 +14,9 @@ Exploring Large Language Model Operations (LLMOps) and Related Challenges in Pro
 | QA5 | Are the threats of validity of the research described? | Evaluates the authors' transparency regarding the limitations, potential biases, and generalizability of their study. | Threats to validity along with mitigation actions are discussed for the findings. | There is no discussion of threats to validity of the study findings. | Threats to validity of the findings of the study are discussed without mitigation actions. |
 | QA6 | Is the aim of the study discussed? | Ensures the paper has a clear purpose and research objective, providing necessary context for why the study was conducted. | The aim of the study is explicitly discussed. | There are no mentions of the study's aim. | The aim can be inferred but is not explicitly stated. |
 
-## Appendix B: Data Extraction Properties for LLMOps SLR
+## Appendix B: Data Extraction Properties for LLMOps SMS
 
-**Table 14: Data Extraction Properties for LLMOps SLR**
+**Table 14: Data Extraction Properties for LLMOps SMS**
 
 | ID | Target RQ | Property Name | Description / Focus Area |
 |---|---|---|---|
@@ -37,9 +37,8 @@ Exploring Large Language Model Operations (LLMOps) and Related Challenges in Pro
 | DP15 | NA | Aim of the study | Aim of the study in context of LLMOps. Captures the core research objective to understand the primary focus and intended contribution of the paper (e.g., "To propose a scalable framework for RAG deployment"). |
 | DP16 | NA | Abstract | Direction, goal and context of LLMOps. Captures the direction and goal of the study and how it contributes to the research. Example abstract quote from the paper. |
 
-## Appendix C: Selected Primary Studies in the Systematic Literature Review
-
-**Table 15: Selected Primary Studies in the Systematic Literature Review**
+## Appendix C: Selected Primary Studies in the SMS
+**Table 15: Selected Primary Studies in the SMS**
 
 | Paper ID | Title | Author | Verified Link / DOI | Publication Source (Journal / Conference) |
 |---|---|---|---|---|
