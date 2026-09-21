@@ -5,7 +5,7 @@ Exploring Large Language Model Operations (LLMOps) and Related Challenges in Pro
 
 **Table 13: Quality Assessment Template for Included Studies**
 
-| QA ID | Target Criterion | Justification (Why this matters) | LOW Risk (High Quality) [Score: 1] | HIGH Risk (Low Quality) [Score: 0] | UNCLEAR (Risk) [Score: 0.5] |
+| QA ID | Target Criterion | Justification (Why this matters) | High Quality (LOW Risk) [Score: 1] | Low Quality (HIGH Risk) [Score: 0] | Risk (UNCLEAR) [Score: 0.5] |
 |---|---|---|---|---|---|
 | QA1 | Is the operational context clearly defined (e.g., production scale, model size)? | Ensures the study is relevant to real-world "Production Environments" rather than just academic toy examples. | The study explicitly details the production environment, scale, infrastructure, and specific models used. | The study uses purely theoretical scenarios, toy datasets, or local execution with no mention of production scale. | The study mentions a production environment but lacks specific details on the actual scale, constraints, or models used. |
 | QA2 | Is the proposed LLMOps framework, architecture, or tool adequately described? | Necessary to accurately map, extract, and compare architectures to answer RQ2 and RQ3. | Comprehensive architectural details, workflows, or code repositories are provided, making the system clear. | The framework is only mentioned conceptually or at a marketing level without technical or architectural depth. | The framework is described at a high level, but specific technical integrations or lifecycle stages are vague. |
